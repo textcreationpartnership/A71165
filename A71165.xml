@@ -1,0 +1,582 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second and last collection of the dying speeches, letters, and prayers &amp;c. of those eminent Protestants who suffered in the west of England (and elsewhere) under the cruel sentence of the late Lord Chancellour, then Lord Chief Justice Jefferys : with an account of their undaunted courage at the barr and afterwards : with the most remarkable circumstances that attended their execution.</title>
+            <author>Tutchin, John, 1661?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71165</idno>
+            <idno type="STC">Wing T3383A</idno>
+            <idno type="STC">ESTC R32831</idno>
+            <idno type="EEBO-CITATION">09614947</idno>
+            <idno type="OCLC">ocm 09614947</idno>
+            <idno type="VID">43818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1005:6 and 1339:40 or 2521:16b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second and last collection of the dying speeches, letters, and prayers &amp;c. of those eminent Protestants who suffered in the west of England (and elsewhere) under the cruel sentence of the late Lord Chancellour, then Lord Chief Justice Jefferys : with an account of their undaunted courage at the barr and afterwards : with the most remarkable circumstances that attended their execution.</title>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <extent>30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton and are to be sold by R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Tutchin by Wing (2nd ed.).</note>
+                  <note>This work appears at reels 1005:4 and 1339:40 identified as Wing S2256 (number cancelled).</note>
+                  <note>Item at reel 2521:16b bound with Wing T3372B.</note>
+                  <note>Reproductions of originals in the Bodleian Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689.</term>
+               <term>Bloody Assizes, 1685.</term>
+               <term>Monmouth's Rebellion, 1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43818:1"/>
+            <pb facs="tcp:43818:1"/>
+            <p>The Second and Laſt COLLECTION OF THE Dying Speeches, LETTERS and PRAYERS, &amp;c. Of thoſe EMINENT Proteſtants Who Suffered in the WEST of ENGLAND, (And Elſewhere,) UNDER THE CRUEL SENTENCE Of the late Lord Chancellour, THEN Lord Chief Juſtice <hi>JEFFERYS:</hi> WITH An Account of their Undaunted Courage at the Barr, and afterwards; with the moſt remarkable Circumſtances that attended their EXECUTION.</p>
+            <p>WITH ALLOWANCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for John Dunton, at the <hi>Black Raven</hi> in the <hi>Poultrey,</hi> over againſt the <hi>Compter;</hi> and are to be Sold by <hi>R. Janeway</hi> in <hi>Queens-head-Alley</hi> in <hi>Pater-noſter-row.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="documents">
+            <pb facs="tcp:43818:2"/>
+            <pb n="3" facs="tcp:43818:2"/>
+            <head>The Second and Laſt COLLECTION OF THE Dying Speeches, LETTERS and PRAYERS, &amp;c. OF Thoſe Eminent Proteſtants who Suffered in the <hi>Weſt</hi> of <hi>England,</hi> and elſewhere.</head>
+            <div type="memoir">
+               <head>A ſhort Recollection of ſome Paſſages of Mr. <hi>William Jenkins,</hi> who Suffered at <hi>Taunton, Septemb.</hi> 30. 1685.</head>
+               <p>A Friend diſcourſing to him at <hi>Dorcheſter</hi> about his Par<g ref="char:EOLhyphen"/>don, and telling him the doubtfulneſs of obtaining it, he replyed, <hi>Well, Death is the worſt they can do, and I bleſs God, that will not ſurprize me, for I hope my great work is done.</hi> At <hi>Taunton</hi> being adviſed to govern the Airineſs of his Temper, tell<g ref="char:EOLhyphen"/>ing him it made People apt to Cenſure him, as Inconſiderate of his Condition, to which he Anſwered, <hi>Truly, this is ſo much my natural temper that I cannot tell how to alter it; but I bleſs God I have, and do think ſeriouſly of my eternal Concerns; I do not allow my ſelf to be vain, but I find Cauſe to be chearful, for my Peace is made with God, through Jeſus Chriſt my Lord; this is my only ground of Comfort and Chear<g ref="char:EOLhyphen"/>fulneſs, the ſecurity of my Intereſt in Chriſt; for I expect nothing but Death, and without this I am ſure Death would be moſt dreadful; but having the good hope of this, I cannot be melancholly.</hi> When he heard of the Triumphant Death of thoſe that ſuffered at <hi>Lyme,</hi>
+                  <pb n="4" facs="tcp:43818:3"/>
+he ſaid, <hi>This is is a good incouragement to depend upon God:</hi> Then ſpeaking about the mangling of their Bodies, he ſaid, <hi>Well, the Reſurrection will reſtore all with great advantage; the</hi> 15th. Chap. <hi>of the firſt of</hi> Corinthians <hi>is Comfort enough for all Believers:</hi> Diſcourſ<g ref="char:EOLhyphen"/>ing much of the certainty and felicity of the Reſurrection at another time, he ſaid, <hi>I will (as I think I ought) uſe all lawful means for the ſaving of my Life, and then if God pleaſe to forgive my ſins, I hope I ſhall as chearfully embrace Death.</hi> Upon the Deſign of attempt<g ref="char:EOLhyphen"/>ing an Eſcape, he ſaid, <hi>We uſe this means for the preſerving of our Lives, but if God is not with us in it, it will not effect it; it is our buſineſs firſt to ſeek to him for Direction and Succeſs, if he ſees good, with reſigning our Lives to him, and then his Will be done.</hi> After the Diſappointments, when there was no Proſpect of any other Op<g ref="char:EOLhyphen"/>portunity, he ſpake much of the Admirableneſs of God's Provi<g ref="char:EOLhyphen"/>dence in thoſe things that ſeem moſt againſt us, bringing the greateſt good out of them; for, ſaid he, <hi>We can ſee but a little way, God is only wiſe in all his Diſpoſals of us; if we were left to chuſe for our ſelves, we ſhould chuſe our own Miſery.</hi> Afterwards Diſ<g ref="char:EOLhyphen"/>courſing of the Vanity and Unſatisfyingneſs of all things in this World, he ſaid, <hi>It is ſo in the enjoying, we never find our Expecta<g ref="char:EOLhyphen"/>tions anſwered by any thing in it, and when Death comes it puts an end to all things we have been purſuing here: Learning and Knowledge (which are the beſt things in this World) will then avail nothing; no<g ref="char:EOLhyphen"/>thing but an Intereſt in Christ is then of any worth.</hi> One reading to ſome of his Fellow-priſoners <hi>Jer.</hi> 42. 12. <hi>I will ſhew mercy unto you, that he may have mercy upon you, and cauſe you to return to your own Land;</hi> he ſaid, <hi>Yes, we ſhall, but not in this World I am perſwaded. September the</hi> 29th. at Night, after he heard he muſt Dye the next Morning, he was exceedingly Compoſed and Chearful, expreſſing his ſatisfaction in the Will of God: The next Morning he was ſtill more ſpiritual and chearful, diſcovering a very ſweet ſere<g ref="char:EOLhyphen"/>nity of Mind in all that he ſaid and did: Whilſt he was wait<g ref="char:EOLhyphen"/>ing for the Sheriff, reading the Scriptures, Meditating, and Con<g ref="char:EOLhyphen"/>verſing with thoſe about him of Divine things, amongſt other things, he ſaid, <hi>I have heard much of the Glory of Heaven, but I am now going to behold it, and to underſtand what it is.</hi> Being deſired to Diſguiſe himſelf to attempt an Eſcape, he ſaid, <hi>No, I cannot tell how to diſturb my ſelf about it, and methinks it is not my buſineſs, now I have other things to take up my thoughts; if God ſaw good to deliver
+<pb n="5" facs="tcp:43818:3"/>
+me, he would open ſome other door; but ſeeing he has not, it is more for the honour of his Name we ſhould dye, and ſo be it.</hi> One ſaying to him that moſt of the Apoſtles dyed a violent Death, he re<g ref="char:EOLhyphen"/>plyed<g ref="char:punc">▪</g> 
+                  <hi>Nay, a greater than the Apoſtles, our Lord himſelf dyed, not only a ſhameful, but a painful Death:</hi> He further ſaid, <hi>This manner of Death hath been the moſt terrible thing in the World to my thoughts, but I bleſs God, now I am neither afraid nor aſhamed to dye.</hi> He ſaid, <hi>The parting with my Friends, and their grief for me, is my greateſt diffi<g ref="char:EOLhyphen"/>culty; but it will be but for a very ſhort time, and we ſhall meet again in endleſs Joys, where my dear Father is already enter'd, him ſhall I preſently joyfully meet:</hi> Then muſing with himſelf a while, he with an extraordinary ſeriouſneſs ſung theſe two Verſes of one of <hi>Herbert</hi>'s Poems,</p>
+               <lg>
+                  <l>Death is ſtill working like a Mole,</l>
+                  <l>Digging my Grave at each remove,</l>
+                  <l>Let Grace work ſo on my Soul,</l>
+                  <l>Drop from above.</l>
+               </lg>
+               <lg>
+                  <l>Oh come! for thou doſt know the way,</l>
+                  <l>Or if to me thou wilt not move,</l>
+                  <l>Remove me where I need not ſay</l>
+                  <l>Drop from above.</l>
+               </lg>
+               <p>He then read the 53<hi rend="sup">d</hi> of <hi>Iſaiah,</hi> and ſaid, he had heard many bleſſed Sermons from that Chapter, eſpecially from the 16<hi>th. Verſe, All we like ſheep have gone aſtray, we have turned every one to his own way, but the Lord hath laid on him the Iniquity of us all;</hi> ſeeming to intimate ſome Impreſs made on his Soul from them, but was interrupted, then he ſaid, <hi>Chriſt is all.</hi> When the Sheriff came, he had the ſame chearfulneſs and ſerenity of Mind in taking leave of his Friends, and in the Sledge, which ſeem<g ref="char:EOLhyphen"/>ed to increaſe to the laſt, (as thoſe preſent have affirmed;) joyning in Prayer, and in ſinging a Pſalm with great appear<g ref="char:EOLhyphen"/>ance of Comfort and Joy in his Countenance, inſomuch that ſome of his Enemies (that had before Cenſured his chearfulneſs for unthoughtfulneſs of his Danger, and therefore expected to ſee him much ſurprized,) now profeſſed they were greatly Aſto<g ref="char:EOLhyphen"/>niſh'd, to ſee ſuch a Young Man leave the World, and go through Death as he did.</p>
+            </div>
+            <div type="testimony">
+               <pb n="6" facs="tcp:43818:4"/>
+               <head>The laſt Words of Coll. <hi>Richard Rumball,</hi> with remarks of what paſt at his Tryal in <hi>Edinburgh, Jan. 26. 1685.</hi>
+               </head>
+               <p>ABout Eleven of the Clock he was brought from the Caſtle to the Juſtices Court, in a great Chair, upon a Man's Back, where at firſt he was asked ſome few Queſtions, moſt of which he anſwered by ſilence; at laſt he ſaid, <hi>He did humbly conceive it was not neceſſary for him to add to his own Accuſation, ſince he was not ignorant they had enough already to do his buſineſs, therefore did not deſire to fret his Conſcience at that time with an<g ref="char:EOLhyphen"/>ſwering Queſtions;</hi> after which his Libel being read, the Court proceeded in uſual manner, firſt asking him if he had any thing to ſay for himſelf before the Jury cloſed: His Anſwer was, <hi>He owned it all, ſaving that part of having deſigned the King's Death; and he prayed all preſent to believe on the word of a Dying Man, he never directly nor indirectly intended ſuch a Villany, that he abhorred the thoughts of it; and that he bleſſed God he had the reputation in the World, that he knew none had the impudency as to ask him the Queſtion; and that he abhorred the thoughts of ſuch an Action, and he hoped all good People would believe this, which was the only way he had left to clear himſelf, and he was ſure that this Truth would once be made manifeſt to all Men.</hi> He was again asked if he had any Excep<g ref="char:EOLhyphen"/>tions againſt the Jury? he anſwered, <hi>No,</hi> but wiſhed them to do as God and their Conſciences directed them: They having withdrawn, returned their Verdict in half an hours time, and brought him in <hi>Guilty;</hi> the Sentence following for him, <q>To be taken from that to the next Room, and from thence to be drawn in a Hurdle, between Two and Four of the Clock, to the Croſs of <hi>Edinburgh,</hi> the Place of Execution, and there to be Hanged, Drawn, and Quartered.</q> He received the Sentence with a devout Courage and Chearfulneſs. After he was delivered in<g ref="char:EOLhyphen"/>to the Town-Magiſtrate's hands, they brought to him two Di<g ref="char:EOLhyphen"/>vines, to offer to him their Aſſiſtance upon the Caſtle, which he altogether refuſed, telling them, <hi>If they had any good Wiſhes for him, they ſhould ſpend them in their Cloſets, and leave him now to ſeek God in his own way:</hi> He had ſeveral Offers of the ſame kind of others, which he put off in the ſame manner. He was moſt
+<pb n="7" facs="tcp:43818:4"/>
+ſerious and ſervent in Prayer, the few hours he lived, as was obſerved by ſeveral who were preſent all the while. The hour being come, he was brought to the Place of Execution, where he ſaluted the People on all ſides of the Caſtle; and after ha<g ref="char:EOLhyphen"/>ving refreſhed himſelf with a Cordial out of his Pocket, cauſed himſelf to be ſupported by two Men, and ſpake to the People in theſe words.</p>
+               <floatingText xml:lang="eng" type="gallows_speech">
+                  <body>
+                     <opener>
+                        <salute>Gentlemen and Brethren,</salute>
+                     </opener>
+                     <p>
+                        <q>It is appointed for all Men that come into the World once to die, after Death to Judgment; and ſince Death is a debt that all of us muſt pay, it is but matter of ſmall moment what way it be done; and ſeeing the Lord is pleaſed in this manner to take me to himſelf, I confeſs ſomething hard to Fleſh and Blood, but bleſſed be his Name who hath made me not only Willing, but Thankful, for honouring me, to lay down that Life he gave me for his Cauſe; in the which, were every Hair on this Head and Beard of mine a Life, I would joyfully Sacrifice them for it, as I do this day. And Providence having brought me hither, I think it moſt neceſſary to clear my ſelf of ſome aſper<g ref="char:EOLhyphen"/>ſions laid on my Name, that I ſhould have had ſo horrid an Intention of deſtroying the King and his Brother: <hi>(Saying over again what he had ſaid before to the Juſtices.)</hi> It was al<g ref="char:EOLhyphen"/>ſo ſaid on my Name that I was Anti-monarchical; it was ever my Thoughts that Kingly Government was the beſt of all, juſtly executed, I mean ſuch as by our ancient Law, <hi>viz.</hi> a King and Free-Parliament; the King having, as I conceive, Power enough to make him great, the People alſo ſo much Property<g ref="char:punc">▪</g> as to make them Happy, they being as it were Con<g ref="char:EOLhyphen"/>tracted to one another, and who will deny me that this is the juſt conſtituted Government of our Nation; how abſur'd is it then for Men of ſenſe to maintain, that though the one part of this Contract breaketh all Conditions, the other ſhould be obliged to perform their part: No, this Error is contra<g ref="char:EOLhyphen"/>ry to the Law of God, the Law of Nations, and the Law of Reaſon: But as Pride hath been the Bait the Devil hath catch<g ref="char:EOLhyphen"/>ed the moſt by, ever ſince the Creation, ſo it continues to this day with us. It was Pride that cauſed our firſt Parents to fall from that bleſſed Eſtate in which they were Created, they
+<pb n="8" facs="tcp:43818:5"/>
+aiming to be higher and wiſer than God allowed, which brought the everlaſting Curſe on them and their Poſterity for ever: It was Pride that cauſed God to drown the old World: It was <hi>Nimrod</hi>'s Pride in building <hi>Babel,</hi> that cauſed that heavy Curſe, the diviſion of Languages, to be ſpread among us at this day; one of the greateſt Afflictions the People of God groan under, that there ſhould be ſo many diviſions during their Pil<g ref="char:EOLhyphen"/>grimage here; but this is their Comfort, that the day draw<g ref="char:EOLhyphen"/>eth near, whereas there is but one Shepherd, there ſhall be but one Sheep-fold: It was therefore the defence of this Party in their juſt Rights and Liberties: <hi>At this they rattled the Drums, to which he ſaid,</hi> They need not trouble themſelves, for he ſhould ſay no more of his Mind on that ſubject, ſeeing they were ſo un<g ref="char:EOLhyphen"/>generous, as to interrupt a dying Man; only to aſſure the Peo<g ref="char:EOLhyphen"/>ple that he adhered to the true Proteſtant Religion, deteſting the erroneous ſuperſtition of many that call themſelves ſo: But I dye this day in the defence of the ancient Laws and Liberties of our Nation; and though God, for reaſons beſt known to himſelf, hath not ſeen fit to honour us, to make us the Inſtruments for the deli<g ref="char:EOLhyphen"/>verance of his People, yet as I have lived, ſo I dye in the Faith, that he will ſpedily ariſe for the deliverance of his Church and People, which I deſire all of you to prepare for; thô with grief I may ſay, this is a deluded generation, vailed with Ignorance, and althô Po<g ref="char:EOLhyphen"/>pery and Slavery be riding in upon them, yet they do not per<g ref="char:EOLhyphen"/>ceive it; thô I am ſure there was none marked of God above ano<g ref="char:EOLhyphen"/>ther; for none came into the World with a Sadle on his Back, neither booted and ſpurr'd to ride in: Not but that I am well ſa<g ref="char:EOLhyphen"/>tisfied that God hath wiſely ordered different Stations for Men in this World, as I have already ſaid, Kings having ſo much Pow<g ref="char:EOLhyphen"/>er as to make them great, and People as to make them happy: And to conclude<g ref="char:punc">▪</g> I ſhall only add my wiſhes for all Mens Salva<g ref="char:EOLhyphen"/>tion, who were Created for that end.</q>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>After ending theſe Words, he Prayed moſt fervently about three quarters of an Hour, freely Forgiving all Men, even his greateſt Enemies, begging moſt earneſtly the deliverance of <hi>Sion,</hi> particularly Praying for <hi>London, Edinburgh,</hi> and <hi>Dublin,</hi> from which the ſtreams run that rule God's People in the three Nations: Being asked ſome hours before his Execution, if he thought not his Sentence dreadful? he anſwered, <hi>He wiſhed he had a Limb for every Town in Chriſtendom.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="9" facs="tcp:43818:5"/>
+               <head>Mr. <hi>Anſley's</hi> Last Letter.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Now ſend you my laſt Farewel, being going to lay down my Life with Joy, and aſſurance of Life Eternal; for which, Bleſſed be the Holy one of <hi>Iſrael,</hi> who never leavs nor forſakes thoſe that put their truſt in Him, I give you many Thanks for your Kindneſs to me, the Lord make it up to you, by pouring upon you a Dayly Portion of his moſt holy Spirit, and Deliver you from your Bonds. My Eenmies have done what they could to Afflict this Body, but Bleſſed be the moſt High, who has given me Strength, Patience, and Courage to Endure all they can lay upon me. The Grace of our Lord Jeſus Chriſt, and the Fellow<g ref="char:EOLhyphen"/>ſhip of his Holy Spirit attend you; which is the Prayer of your Dying Friend, but Living Brother in Chriſt Jeſus,</p>
+               <closer>
+                  <signed>Abraham Anſley.</signed>
+                  <dateline>From <hi>Taunton-Caſtle,</hi> 
+                     <date>
+                        <hi>Sept.</hi> 21. 1685.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>A <hi>HYMN,</hi> made by Mr. <hi>Joſeph Tyler</hi> a little before His Execution.</head>
+               <lg>
+                  <l>O Lord, how Glorious is thy Grace,</l>
+                  <l>How wondrous large thy Love,</l>
+                  <l>At ſuch a dreadful Time and Place,</l>
+                  <l>To ſuch as Faithful prove.</l>
+               </lg>
+               <lg>
+                  <l>If thou wilt have thy Glory henee,</l>
+                  <l>Tho ſhameful Deaths we Dye;</l>
+                  <l>We Bleſs Thee for thy Provedence,</l>
+                  <l>To all ETERNIT<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:43818:6"/>
+                  <l>Let the Spectators ſee thy Grace,</l>
+                  <l>In thy poor Servants Shine;</l>
+                  <l>Whilſt we by Faith, behold thy Face,</l>
+                  <l>In that bleſt Son of Thine.</l>
+               </lg>
+               <lg>
+                  <l>The Men our Bodies may abuſe,</l>
+                  <l>Chriſt take our Souls to Reſt;</l>
+                  <l>Till Thou bringeſt forth that Joyful News,</l>
+                  <l>You are my Fathers Bleſt.</l>
+               </lg>
+               <lg>
+                  <l>Appear for thoſe that plead thy Cauſe,</l>
+                  <l>Preſerve them in thy Way;</l>
+                  <l>We own King Jeſus and his Laws,</l>
+                  <l>And dare not but Obey.</l>
+               </lg>
+               <lg>
+                  <l>Great God confound thy Cruel Foes,</l>
+                  <l>Let <hi>Babylon</hi> come down;</l>
+                  <l>Let <hi>Englands</hi> King be one of thoſe,</l>
+                  <l>Shall Raze Her to the Ground.</l>
+               </lg>
+               <lg>
+                  <l>Though Chriſt we yield our Souls to Thee,</l>
+                  <l>Accept us on his ſcore<g ref="char:punc">▪</g>
+                  </l>
+                  <l>That where he is, there we may be,</l>
+                  <l>And Praiſe the evermore.</l>
+               </lg>
+            </div>
+            <div type="letter">
+               <head>Mr. <hi>Sampſon Lark's</hi> Letter to a Friend, juſt before his Execution,</head>
+               <p>MY Dear Friend, I am ready to be Offered, and the time of my Departure is at hand; I have through Grace fought a good Fight, have finiſhed my courſe, have kept the Faih, and am in hopes of the Crown of Righteouſneſs prepared for me, and all Gods Faithful ones; The experiences I have had of the promiſes; hath given me comfortable hopes that he will carry me to the full end of my Journey, with his Name, and that Truth of his, wich I have made Profeſſion of<g ref="char:punc">▪</g> My great Crime is for my being a Preacher of the Goſpel, and here I am to be made a Sa<g ref="char:EOLhyphen"/>crafice,
+<pb n="11" facs="tcp:43818:6"/>
+where I have moſtly Preached Chriſts Goſpel. I think my Judges have deviſed this puniſhment for my hurt, but <hi>I</hi> truſt God will turn it to my good; the great trouble <hi>I</hi> have, is for thoſe good Hearts that <hi>I</hi> muſt leave behind me: But this is my com<g ref="char:EOLhyphen"/>fort, knowing that all ſuch as fear God, he will be a Father to them. My Dear Wife is greatly troubled, but through Mercy, much ſupported and ſomething quieted; if any of you have op<g ref="char:EOLhyphen"/>portunity to give her help; <hi>I</hi> hope you will do it; as for our con<g ref="char:EOLhyphen"/>feſſing our ſelves Guilty, it was expreſly as to matter of Fact, and not of Form, and this <hi>I</hi> did with ſome freedom, and the rather becauſe all my worthy Brethren that went before me took that way, and the many ways having been uſed to have a further Diſcovery, yet nothing of that kind by any but onely by Captain <hi>Jones;</hi> Since our Sentence ſome wretched-men hath been with us to draw from us a Confeſſion of our being Rebels, that we might have their Abſolution. <hi>I</hi> Bleſs God he has hitherto helped me to be Faithful, and <hi>I</hi> hope he will not leave me in the moſt need<g ref="char:EOLhyphen"/>full time. <hi>I</hi> muſt Conclude, being ready to be called away; my Dear Love to all my Chriſtian Friends, and eſpecially thoſe in the Goal; the Lord be with you all<g ref="char:punc">▪</g> 
+                  <hi>Amen.</hi> Your Dying Friend, in hopes of Eternal Life, through Jeſus Chriſt, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>Sampſon Larke.</signed>
+                  <dateline>From the Houſe of my Bleſſed Bondage in <hi>Dorceſter,</hi> 
+                     <date>
+                        <hi>Sept.</hi> 7th. 1685.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="speech">
+               <head>The Laſt Speech of the Lady <hi>Alicia Liſle.</hi>
+               </head>
+               <p>GEntlemen, Friends and Neighbours, it may be expected that I ſhould ſay ſomething at my Death, and in order thereun<g ref="char:EOLhyphen"/>unto I ſhall acquaint you, that my Birth and Education was both near this place, and that my Parents Inſtructed me in the Fear of God, and I now dye of the Reformed Proteſtant Religion; that if ever Popery ſhould return into this Nation, it would be a ve<g ref="char:EOLhyphen"/>ry great and ſevere Judgment, that I dye in expectation of the Pardon of all my Sins, and of acceptance with God the Father, by the imputed Righteouſneſs of Jeſus Chriſt, he being the End
+<pb n="12" facs="tcp:43818:7"/>
+of the Law for Righteouſneſs to every one that believes; I thank God through Jeſus Chriſt, that I do depart under the Blood of Sprinkling, which ſpeaketh better things then that of <hi>Abel;</hi> God having made this Caſtiſement an Ordinance to my Soul; I did once as little expect to come to this place on this occaſion, as any Perſon in this place or Nation; therefore let all learn not to be high Minded, but fear<g ref="char:punc">▪</g> The Lord is a Soveraign, and will take what way he ſees beſt to Glorifie himſelf in, and by his poor Crea<g ref="char:EOLhyphen"/>tures; and I do humbly deſire to ſubmit to his Will, Praying to him<g ref="char:punc">▪</g> 
+                  <hi>That I may poſſeſs my Soul in Patience.</hi> The Crime that was laid to my Charge, was for entertaining an Non-conformiſt-Miniſter and others in my Houſe; the ſaid Miniſter being Sworn to have been in the late Duke of <hi>Monmouths</hi> Army; but I have been told, that if I had denyed them, it would not at all have effected me; I have no excuſe, but ſurprize and fear, which I be<g ref="char:EOLhyphen"/>lieve my Jury muſt make uſe of to excuſe their Verdict to the World. I have been alſo told, That the Court did uſe to be of Counſel for the Priſoner: but inſtead of Advice, I had Evi<g ref="char:EOLhyphen"/>dence againſt me from thence; which though it were only by hear ſay, might poſſibly affect my Jury; my defence being but ſuch, as might be expected from a weak Woman; but ſuch as it was, I did not hear it Repeated again to the Jury; which as I have been informed, is uſual in ſuch caſes: However, I forgive all the World, and therein all thoſe that have done me wrong; and in particular, I forgive Colonel <hi>Penrudduck,</hi> although he told me, that he could have Taken theſe men before they came to my Houſe; and I do likewiſe forgive him, who deſired to be taken away from the Grand Jury to the Petty Jury, that he might be the more nearly concerned in my Death; as to what may be objected in reference to my Conviction, that I gave it under my hand, that I had Diſcourſed with <hi>Nelthrope;</hi> that could be no Evidence againſt me, being after my Conviction and Sentence: I do ac<g ref="char:EOLhyphen"/>knowledge His Majeſty's Favour in Revoking my Sentence; I pray God to preſerve him, that he may long Raign in Mercy, as well as Juſtice; and that he may Raign in Peace; and that the Proteſtant Religion may flouriſh under him: I alſo return thanks to God and the Reverend Clergy, that aſſiſted me in my Impri<g ref="char:EOLhyphen"/>ſonment.</p>
+               <closer>
+                  <signed>ALICIA LISLE.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:43818:7"/>
+               <head>A Letter Writ by Mr. <hi>John Hicks,</hi> Oct. <hi>5.</hi> the Day before his Death.</head>
+               <opener>
+                  <salute>My Dear Nephew,</salute>
+               </opener>
+               <p>I Am yet in the <hi>Land of the Living,</hi> though in the Mouth of Death; I having been concern'd for you, next to my own Children before I die; I thought fit to write two or three Lines to you, as a Manifeſtation of my great Love to you: I earneſt<g ref="char:EOLhyphen"/>ly deſire the Welfare of you here, and to Eternity hereafter, next to my own Wife and Children, you will want me when I am gone, but I hope the Lord will take care of you; make it your buſineſs to walk with him, to ſerve him faithfully; flee youth<g ref="char:EOLhyphen"/>ful Luſts, <hi>and Remember your Creatour in the Days of your Youth;</hi> be deeply concern'd to have your Heart and Nature chang'd, and an intereſt in Chriſt ſecur'd unto you: Death comes ſud<g ref="char:EOLhyphen"/>denly, you know not when, where, nor how you ſhall die: Let time therefore be moſt precious to you; fill it up with Work and Duty; Live by Faith more than by Senſe; and this will ſtand by you when you come to die: Seek the things which are above, and ſet your Affections upon them; have your Conver<g ref="char:EOLhyphen"/>ſation in Heaven, whilſt you are upon Earth. When you ſee your Parents, give my dear Love to them and their Children; the Lord grant that we may meet in his Everlaſting Kingdom: When you ſee any of your Couſins, give my dear Love to them, and be not aſham'd of my Sufferings: I wrote laſt <hi>Saturday</hi> was a Seven-Night to my Brother <hi>George,</hi> but whether he is at <hi>London</hi> or <hi>Worceſter,</hi> I know not; I wrote to him, to deſire him to Pe<g ref="char:EOLhyphen"/>tition the King, that ſome Favour and Mercy might be ſhewed me, if he thought fit: Things that are made to aggravate my Crime, I am clear from, as that I perſwaded the Duke of <hi>M.</hi> to aſſume the Title of King at <hi>Taunton,</hi> when I was not there with him, nor in 13 days after he came into <hi>England,</hi> and that I rode too and fro in the <hi>Weſt,</hi> to perſwade People to go into his Army, when I was in the <hi>Eaſt,</hi> and came from thence to him
+<pb n="14" facs="tcp:43818:8"/>
+in the <hi>Weſt;</hi> but my Nonconformity cuts me, and obſtructs the Kings Mercy from being Extended to me, as I am told; but the Will of the Lord be done; the Life to come is infinitely bet<g ref="char:EOLhyphen"/>ter than this: Many more things are laid to my charge, which I am no more guilty of than your ſelf. If your Uncle be in Town, go ſpeedily to him, and give him my Dear Love; I Pray for you, who am</p>
+               <closer>
+                  <signed>Your moſt Affectio<g ref="char:EOLhyphen"/>nate <g ref="char:V">Ʋ</g>ncle,
+J. H.</signed>
+                  <dateline>
+                     <date>Octob. 5. 1684.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to his Wife, <hi>Sept. 23. 1684.</hi>
+               </head>
+               <opener>
+                  <salute>My Deareſt Love,</salute>
+               </opener>
+               <p>I Hope you received a few Lines from me, by the way of <hi>London;</hi> once more I write to you, by our faithful and truſty Friend <hi>W. D.</hi> who hath been at <hi>Exon.</hi> If there be need for it, he knows many of my Dear and Faithful Friends there, who wiſh you would come and live among them; and if your Eſtate fail, I think it very adviſeable ſo to do; I hope God will ſtand by you and defend you: My Dear, ſee me in God, as I muſt you. I muſt now bid adieu unto all Earthly and Worldly Comforts, and all the Pleaſant and Delightful Objects of Sence. I bleſs God for all preſent Mercies and Comforts hitherto I have had; what will be after this day, I know not, but the Will of the Lord be done.</p>
+               <p>
+                  <hi>My Dear,</hi> be very cautious not to ſpeak one Word, leaſt it be wreſted to wrong Sence, which may ruine you; I have not writ what I would of this Nature, take the Advice of Friends, and of what I ſend by our Friend. O let not the Everlaſting Arms of God be with-drawn from you one Moment; and let him ſtrengthen you with all Might, according to his Glorious Power, and to all Patience and Long-Suffering, with Joyfulneſs! Pray hard for Victory over Paſſion, and be much in private Cloſet-Prayer with God; and often read the Holy Bible, and
+<pb n="15" facs="tcp:43818:8" rendition="simple:additions"/>
+other good Books, the Lord continually guide, direct and counſel you. My dear, I return you a thouſand thanks for all the Love you have ſhew'd me and my Children, and particu<g ref="char:EOLhyphen"/>larly for the high and great Demonſtration you have given there<g ref="char:EOLhyphen"/>of in this day of my diſtreſs; I hope my Daughters will be as dutiful to you, and be as much concern'd for your comfort and welfare, as if you had travelled with them, and brought them into the World; God bleſs my Dear Little-Ones and them to<g ref="char:EOLhyphen"/>gether, I ſhall dye their moſt Affectionate and Praying Father; God I hope will uphold, ſupport, and comfort me at the laſt hour, and enable me to overcome the Temptations I ſhall vio<g ref="char:EOLhyphen"/>lently be aſſaulted with before I Die: God by his Infinite and freeſt Mercies in Chriſt Jeſus, Pardon all the neglect of Relative Duties, (which I have bitterly lamented and bewail'd before God, with all the Sins I am guilty of) for the ſake of our Deareſt Lord and Redeemer; the Lord make you grow in all Grace more than ever, and make this great Affliction ſo humbly Purifying and Spiritualizing to you as well as me, that it may work for us both, a far more Exceeding and Eternal Weight of Glory; let him take your Soul into his moſt deareſt Embra<g ref="char:EOLhyphen"/>ces, and lodge it in the Boſom of his Love here, and make us to meet in the full and Everlaſting Fruition and Enjoyment of him hereafter; though it is dangerous for you to vindicate that I die for, yet be not too much caſt down for it: I will ſay no more as to that. My hearty and affectionate Reſpects to all my Dear Friends; I need not name them; I hope to meet them, with your ſelf, to inherit Eternal Life through the Merits of Chriſt's Death: Farewel my Dear, farewel in the Lord; until we meet to be Marry'd to him for ever; my Heart is as full of Love t<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e as it was the firſt day I Marry'd thee; and if God ſpar<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ife, it ſhould have been as fully manifeſted until Death; therefore I reſt,</p>
+               <closer>
+                  <signed>Your moſt Affectionate and Endeared Husband,
+<hi>J. H.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>Sept.</hi> 23. 1684.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="16" facs="tcp:43818:9"/>
+               <head>Another Letter.</head>
+               <opener>
+                  <salute>My Dearest Love,</salute>
+               </opener>
+               <p>I Received your Letter by Mr. <hi>Skinner;</hi> I Bleſs God, that you and my Babes are well; the Lord continue their Lives to be a Bleſſing and Comfort to you, and enable you to ſee them well Educated in the Fear of God; and when God takes me away, let him be a Husband to guide, direct, ſuccour, comfort and ſup<g ref="char:EOLhyphen"/>port you, and to lodge your Soul in the Boſom of his Love; and let him be a Father to them, and their Portion for ever. Monday laſt my Brother went to <hi>London,</hi> to try what could be done for me; what the ſucceſs will be, I know not; I deſire the Lord eve<g ref="char:EOLhyphen"/>ry day to prepare me for Death, and carry me above the Fear of it, by the diſcoveries of his everlaſting love unto my Soul; and clearing up my Right and Title to everlaſting Life; and by Seal<g ref="char:EOLhyphen"/>ing up to me the Pardon of all my Sins, through the moſt preci<g ref="char:EOLhyphen"/>ous Blood of Jeſus Chriſt: Let us Pray hard and much for each other; when I leave this World, it ſhall be with Prayer for thee; if God give me life, how ſhall I ſtudy to be a comfort to thee, and to live up to my Marriage as well as Baptiſmal Cove<g ref="char:EOLhyphen"/>nant to all my Friends? Tender my moſt affectionate Reſpects; I hope their Prayers will one way or other be heard for me; let the Almighty be your Protector, Supporter and Comforter: There be two Books I do recommend to you to read when you are retir'd, as well as in your family; <hi>Pierces Preparation for Death;</hi> and <hi>Foxes Redemption of Time:</hi> Now let our Souls meet toge<g ref="char:EOLhyphen"/>ther in one moſt Bleſſed God, in our Deareſt Jeſus, and ſweeteſt Saviour; let them claſp and cling about him, and be Sick for the love of him; and that we may meet to enjoy him fully to Eterni<g ref="char:EOLhyphen"/>ty, and be ſatisfied with his Love for ever; a thouſand Loves, if I had them, I would ſend to thee, next to my and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Jeſus, and the things that are Heavenly, Spiritual and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: I love thee; what I can ſpare for thee, is convey'd to thee and my Dear Children, from</p>
+               <closer>
+                  <signed>Thy moſt Affectionate and Faithful Husband, and their moſt loving Father,
+<hi>J. H.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="17" facs="tcp:43818:9"/>
+               <head>Another Letter.</head>
+               <opener>
+                  <salute>My moſt Dear Love,</salute>
+               </opener>
+               <p>I Hope you have received my laſt once more, as a dead and living man (through difficulty) I write to you, though I yet do not know when nor where I ſhall dye, but expect Death every day; when that Meſſage is brought to me, I hope, through the Grace and Strength of Chriſt, it will be no ſurprize to me; that neither my Lips, Fleſh, nor Heart will tremble when I hear it; I know the cauſe for which I Suffer; God hath and has ſingled me out from many of my Brethren (which I never have been without ſome apprehenſions of for above theſe 20 years) to lay down my Life; how far it is <hi>for his cauſe, will be judged at the laſt day;</hi> I bleſs God, who hath kept me from all Temptations to Conformity, though it has brought me to Ruine and Deſtruction in this World, it will be no fit Seaſon for you to Vindicate that for which I am call'd to ſuffer, be ſilent, and leave it to God; I adviſe to all Pru<g ref="char:EOLhyphen"/>dence in this caſe: have your own reſerv'd thoughts, and let them concerning me, ſupport and comfort you; if there never happen a time for you to Glory in my Sufferings, it will be here<g ref="char:EOLhyphen"/>after; do you but walk with God (though through Prudence you muſt hold your Tongue) and be not aſham'd you had ſuch a Husband; I thank God that gave it me, whoſe Courage and Pub<g ref="char:EOLhyphen"/>lick Spirit for the Proteſtant Religion, the Civil Liberties of his Country, even true <hi>Engliſh</hi> Liberties, hath in this Ignominious way, brought me to the Concluſion and End of my time; Mourn not, my Dear, as one without Hope, let the World know you have ſomething from me, ſomething from your ſelf as a Chriſtian, but ten thouſand times more from God to comfort and ſupport you; ſee Chriſt by an Eye of Faith, infinitely more lovely and beautiful than my ſelf; let him be Married to your Soul; let him be the chiefeſt of ten thouſand, and more dear and precious to you; it is not long we ſhall be ſeparated, before we ſhall ſee one another in a Spiritual Enjoyment, ſeparated from all Fleſhly Pleaſures and Delights, yet infinitely more ſweet &amp; ſatisfying to Immor<g ref="char:EOLhyphen"/>tal Spirits, as you and I us'd to ſee Streams from the Fountaint
+<pb n="18" facs="tcp:43818:10" rendition="simple:additions"/>
+and the largeſt Streams in the Ocean; ſo let us ſee one another in God, the Ever-flowing and Over-flowing Fountain of all Good, the fathomleſs and boundleſs Ocean of Good; ſeek much the things which are above; live with your Affections; ſet upon them; and have your Converſation in Heaven, whilſt you are upon Earth; I continue yet to Pray for you, as for my ſelf, and ſhall continue to do it until I dye; in my laſt Prayers you ſhall be Intereſted with my Dear Babes, whom I hope God will take into Covenant with him, and number them among his Adopted Ones, and of that Incorruptible Inheritance which is in Heaven; I hope God will ſpare your Life to ſee them Educated, and guide and aſſiſt you therein, and theirs to be a Bleſſing and Comfort to you; conſider your Condition is not ſingle and alone, this Countrey affords a multitude of the like ſad and deplorable Inſtances; let this make you more to poſſeſs your Soul with Patience and Humi<g ref="char:EOLhyphen"/>lity, calmly and quietly to ſubmit to the good Will of God—I have left a Paper behind me for you to Read, and our Friend can tell with what difficulty I Writ it, therefore muſt have many Defects and Imperfections, which muſt be over-look'd and mend<g ref="char:EOLhyphen"/>ed; preſerve the two Bibles for my Dear <hi>James</hi> and <hi>Betty:</hi> What ſhall I ſay more my Deareſt? I muſt break off with my Heart full of Love to thee; and Subſcribe my ſelf,</p>
+               <closer>
+                  <signed>Thy moſt Dear and Affectionate Hus<g ref="char:EOLhyphen"/>band till Death,
+<hi>J. H.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>Octob.</hi> 3d. 1684.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Mr. <hi>Joſias Askew</hi>'s Letter to his Father.</head>
+               <opener>
+                  <salute>Honoured Father,</salute>
+               </opener>
+               <p>I Not having an Opportunity to make my Gratitude known to you, for all your Endeavours for the ſaving a poor, vain, periſhing, and troubleſome Life; and ſeeing it is all in vain, I would deſire you both to acquieſce in the Will of God, and re<g ref="char:EOLhyphen"/>joyce with me for this happy Day of my Departure from this
+<pb n="19" facs="tcp:43818:10"/>
+State of Pilgrimage, home to the Poſſeſſion of thoſe Heavenly Manſions, which my God and Father hath provided for me, in and thorough my Lord Jeſus Chriſt: It is in him alone I put my Truſt and Confidence, and therefore can boldly ſay, <hi>Who is he that Condemneth?</hi> It is Chriſt that died, yea rather, that is ri<g ref="char:EOLhyphen"/>ſen again, and is ſet down at the Right Hand of God, making Interceſſion for all thoſe that have a well-grounded Confidence in him. My time is but ſhort, and by reaſon of Company I am diſturbed; therefore I conclude with my laſt Breath, beging of God, that he would keep you conſtant in his Fear, in this day of great Temptation, and at laſt receive you to his Glory, where we ſhall once more Unite, in Praiſing; without Interrup<g ref="char:EOLhyphen"/>tion or Diſtraction, World without End, <hi>Amen.</hi> Until which time, the Grace of God the Father, the Love of God the Son, the comfortable Refreſhings of God the Holy Ghoſt, be with you, all yours, and the whole <hi>Iſrael</hi> of God, both now and for ever: Which is the Hearty Prayer of your Son,</p>
+               <closer>
+                  <signed>Joſias Askew.</signed>
+Pray Remember me to all with Joy.</closer>
+            </div>
+            <div type="letter">
+               <head>Another Letter to his Friend.</head>
+               <opener>
+                  <salute>MADAM,</salute>
+               </opener>
+               <p>YOU have been a Partaker with me in my Troubles, I would alſo make you a Partaker with me in my Joys; ſeeing my <hi>Wedding Day</hi> is come, the Day of the <hi>Bridegroom</hi> is at Hand, and I am this Day to be ſtript of my Rags of Corruption, to be Cloathed upon with the White Robe of his Righteouſneſs and Purity, and to be Married to my Husband, and to be given to the Embraces of my Lord Jeſus Chriſt, for ever and ever.</p>
+               <p>Learn not to repine at the Holy Determination of an Infinite Wiſe God, but reſt ſatisfied in his Will, knowing that he doth all things for the beſt to them that fear him; Weep not for me who am only changing this World of Temptation, of Troubles and Affliction: it hath pleaſed God to call me a little before you, but you muſt ſoon follow after; keep therefore, the Fear
+<pb n="20" facs="tcp:43818:11" rendition="simple:additions"/>
+of God before your Eyes, and then you will have cauſe to re<g ref="char:EOLhyphen"/>joyce, and not to mourn, when at the time of Departure; you may have cauſe to ſay with me, <hi>I have run my Race, I have fi<g ref="char:EOLhyphen"/>niſhed my Courſe, I have kept the Faith, henceforth is laid up for me a Crown of Glory which fadeth not away;</hi> which that you may be able to ſay, is the Hearty Prayer, of</p>
+               <closer>
+                  <signed>Your Friend and Servant,
+Joſias Askew.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <head>The Account his Friend gives of him.</head>
+               <p>TO prevent your further Trouble in ſuing for a Pardon, I think it convenient to let you know, I do not queſtion, but my Dear Couſin hath had his Pardon Sealed by the <hi>King of Kings,</hi> and is in Everlaſting Bleſſedneſs, Singing <hi>Hallelujahs,</hi> Salvation, Glory and Honour to him that ſits upon the Throne, and to the Lamb for ever and ever: For God did ſo carry him through to drink that <hi>bitter Cup,</hi> with ſo much Courage and Chearfulneſs to the laſt, as was to the Admiration of all Spe<g ref="char:EOLhyphen"/>ctators, notwithſtanding the terrible Sight he ſaw at the place of Suffering, and ſo vehemently, as he was tried by the Adver<g ref="char:EOLhyphen"/>ſary; yet it did not in the leaſt diſ-compoſe him or alter his Countenance, for he continued with a ſmiling Countenance to the laſt, and was tranſported above Meaſure: I want Words to expreſs it; he was like one wrapt up in Heaven, with his Heart there, and his Eyes fixed thereon. I could wiſh you had been there, it would have driven away all cauſe of Sorrow from your Heart, and to ſee his Deportment, and hear the Gracious Words that proceeded out of his Mouth: He remembreth his Duty to you both, and left <hi>Pauls</hi> Bleſſing with you, <hi>Grace, Mer<g ref="char:EOLhyphen"/>cy, and Peace;</hi> his Love to his Dear Siſter; he deſires her not to be troubled for him, for he hath made his Peace with God, and was aſſured he ſhould go to Eternal Happineſs; he would have Written more to you and to his Siſter, but that he had ſo ſhort a time after Sentence, that he wanted Opportunity; when he went out of Priſon, he ſaid, <hi>Gentlemen, Now I am going, and it is
+<pb n="21" facs="tcp:43818:11" rendition="simple:additions"/>
+the time I much longed for; I would not change with him that paſ<g ref="char:EOLhyphen"/>ſed Sentence upon me, for a World.</hi> I was with him to the laſt, and ſeeing his Courage, did very much encourage me, though I never ſaw ſuch a Sight with my Eyes.</p>
+            </div>
+            <div type="poem">
+               <head>Next followes many Excellent Hymns made by ſeveral Wor<g ref="char:EOLhyphen"/>thy Perſons that were Priſoners for the ſake of Chriſt.</head>
+               <lg>
+                  <l>TRiumphing Songs with glorious Tongues,</l>
+                  <l>Let's offer unto him;</l>
+                  <l>That loved ſo to undergo</l>
+                  <l>The product of our Sin.</l>
+               </lg>
+               <lg>
+                  <l>Leaving his Throne from Heaven came down,</l>
+                  <l>Sinners for to Redeem</l>
+                  <l>From Hell and Wrath and ſecond death,</l>
+                  <l>Chriſt underwent great pain.</l>
+               </lg>
+               <lg>
+                  <l>His ſide was gor'd, his hands was bor'd</l>
+                  <l>His feet was nailed down,</l>
+                  <l>And all was for the Redemption</l>
+                  <l>Of ſinful wicked Man.</l>
+               </lg>
+               <lg>
+                  <l>O how ſtraitned, preſt and pained</l>
+                  <l>Was Chriſt to be Baptized,</l>
+                  <l>And in Affliction to be plunged,</l>
+                  <l>His Body Sacrificed.</l>
+               </lg>
+               <lg>
+                  <l>Let God be bleſt for Jeſus Chriſt</l>
+                  <l>Who is our ſplendid King,</l>
+                  <l>
+                     <hi>Hallelujahs</hi> ſweet with ſpirit meet,</l>
+                  <l>High praiſes to him ſing.</l>
+               </lg>
+               <lg>
+                  <l>For Blood, for Wounds<g ref="char:punc">▪</g> for Love, whoſe bounds</l>
+                  <l>Extended unto all:</l>
+                  <l>For ſcoffs and ſmites, for jeers, for flouts</l>
+                  <l>Which upon Chriſt did fall.</l>
+               </lg>
+               <lg>
+                  <pb n="22" facs="tcp:43818:12"/>
+                  <l>Now Chriſt haſte unto us again</l>
+                  <l>Thy Scepter for to ſway,</l>
+                  <l>Thy Kingdom come, thy will be done.</l>
+                  <l>Come Jeſus come away.</l>
+               </lg>
+               <lg>
+                  <l>With glorious bands and ſhining trance</l>
+                  <l>Of Angels in the Skye,</l>
+                  <l>Which forth ſhall ſing Triumphing Songs</l>
+                  <l>With ſweet <hi>Hallelujah.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Set up thy ſtandard, and prepare</l>
+                  <l>War againſt <hi>Babylon:</hi>
+                  </l>
+                  <l>For her deſtruction draweth near.</l>
+                  <l>As here we read her doom.</l>
+               </lg>
+               <lg>
+                  <l>Lord blow the Trumpet, and awake</l>
+                  <l>The Nations round about,</l>
+                  <l>Stir up the ſpirit of the <hi>Meeds,</hi>
+                  </l>
+                  <l>Which did old <hi>Babel</hi> rout.</l>
+               </lg>
+               <lg>
+                  <l>For <hi>Babel</hi> muſt drink of that Cup</l>
+                  <l>Which <hi>Sion</hi> deep did wound,</l>
+                  <l>
+                     <hi>Jeruſalem</hi> did firſt begin,</l>
+                  <l>And ſo the Cup goes round<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But <hi>Babel</hi> muſt drink up the dregs</l>
+                  <l>Of Wrath which do remain,</l>
+                  <l>With which no mixture ſhe ſhall have</l>
+                  <l>To mitigate her pain.</l>
+               </lg>
+               <lg>
+                  <l>For 'tis the vengeance of our God,</l>
+                  <l>And of his Temple too,</l>
+                  <l>The vials that fill up his Wrath,</l>
+                  <l>The three laſt Trumpets wo.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Jacob</hi> as a battel AX<g ref="char:punc">▪</g>
+                  </l>
+                  <l>In great <hi>Jehovah</hi>'s hand,</l>
+                  <l>Shall break down all, thoſe Mountains tall,</l>
+                  <l>That in his way do ſtand.</l>
+               </lg>
+               <lg>
+                  <pb n="23" facs="tcp:43818:12"/>
+                  <l>O then let us Rejoyce, becauſe</l>
+                  <l>The time appointed is,</l>
+                  <l>That <hi>Babel</hi> ſhall be ſeen to fall,</l>
+                  <l>And <hi>Sion</hi> ſhine in Bliſs.</l>
+               </lg>
+               <lg>
+                  <l>Our Lord draws near, as doth appear</l>
+                  <l>By Signs by him fore-told;</l>
+                  <l>Then Virgins come, meet your Bridegroom,</l>
+                  <l>His Wonderous Works behold.</l>
+               </lg>
+               <lg>
+                  <l>The Night grows dark, be ſtill and hark</l>
+                  <l>What is the Bridegrooms Voice;</l>
+                  <l>That when the Cry, comes ſwiftly by,</l>
+                  <l>It may your Hearts rejoyce.</l>
+               </lg>
+               <lg>
+                  <l>Your Light grows dim, ariſe and trim</l>
+                  <l>Your Lamps from all their Soyl;</l>
+                  <l>And ſee your Light ſhines clear and bright,</l>
+                  <l>Supply'd with Goſpel-Oyl.</l>
+               </lg>
+               <lg>
+                  <l>Some Virgins now do Sleepy grow;</l>
+                  <l>And don't their Veſſels fill;</l>
+                  <l>Nor fear a want, when Oyl grows ſcant,</l>
+                  <l>And none be found to ſell.</l>
+               </lg>
+               <lg>
+                  <l>And at Mid-night, all in a Fright,</l>
+                  <l>Oyl-ſhops they cannot find;</l>
+                  <l>And none will ſpare, out of his ſhare,</l>
+                  <l>And ſo they are left behind.</l>
+               </lg>
+               <lg>
+                  <l>Thus Fooliſh ſleep, in dangers deep,</l>
+                  <l>And think their Lord delays;</l>
+                  <l>But his own Bride, hath ſurely ſpide</l>
+                  <l>Some of his Glorious Rayes;</l>
+               </lg>
+               <lg>
+                  <l>And will not ſleep, unleſs ſhe keep</l>
+                  <l>Her Watch-lights burning ſtill,</l>
+                  <l>With Oyl in ſtore, layd up therefore,</l>
+                  <l>Let him come when he will.</l>
+               </lg>
+               <lg>
+                  <pb n="24" facs="tcp:43818:13" rendition="simple:additions"/>
+                  <l>And though her Garments had ſome rents,</l>
+                  <l>And ſpots not perfect white;</l>
+                  <l>Yet they'll be cleans'd, or quickly chang'd</l>
+                  <l>For Rayments of Delight.</l>
+               </lg>
+               <lg>
+                  <l>With her Bridegroom, ſhe will find room</l>
+                  <l>In Chambers of his Love;</l>
+                  <l>When the Unwiſe, he will deſpiſe,</l>
+                  <l>And them from him remove.</l>
+               </lg>
+            </div>
+            <div type="speech">
+               <pb n="25" facs="tcp:43818:13"/>
+               <head>THE Earl of Argyle's LAST SPEECH, June the 30<hi rend="sup">th</hi>. 1685.</head>
+               <p>
+                  <hi>JOB</hi> tells us, <hi>Man that is born of a Woman, is of few Dayes, and full of Trouble;</hi> and I am a clear Inſtance of it. I ſhall not now ſay any thing of my Sentence, or Eſcape about three Years and a half agoe; nor of my Return, leſt I may thereby give Offence, or be tedious: Only being to end my dayes in your Preſence, I ſhall, as ſome of my laſt Words, aſſert the Truth of the matter of Fact, and the Sincerity of my Intentions, and Pro<g ref="char:EOLhyphen"/>feſſions that are Publiſhed.</p>
+               <p>That which I intend mainly now to ſay, is, To expreſs my humble and (I thank God) chearful Submiſſion to his Divine Will; and my willingneſs to Forgive all men, even my Enemies; and I am heartily well ſatisfied there is no more Blood ſpilt, and I ſhall wiſh the Stream thereof may ſtop at me: And that (if it pleaſe God) to ſay, as to <hi>Zerubbabel,</hi> Zech. 4. 6. <hi>Not by might, nor by Power, but by my ſpirit, ſaith the Lord of Hoſts.</hi>
+               </p>
+               <p>I know Afflictions ſpring not out of the duſt: God did wonderfully Deliver and Provide for me, and has now by his ſpecial Providence brought me to this Place; and I hope none will either inſult, or be ſtumbled at it, ſeeing they ought not; for
+<pb n="26" facs="tcp:43818:14"/>
+God Almighty does all things well, for good and holy Ends, though we do not always underſtand it. Love and Hatred is not known by what is before us, <hi>Eccleſ.</hi> 9. 1. &amp; 8. 11, 12. 13.</p>
+               <p>Afflictions are not only foretold, but promiſed to Chriſtians; and are not only tollerable, but deſirable.</p>
+               <p>We ought to have a deep Reverence and Fear of God's diſ<g ref="char:EOLhyphen"/>pleaſure; but withal, a firm Hope and Dependance on him for a bleſſed Iſſue, in compliance with his Will; for God cha<g ref="char:EOLhyphen"/>ſtens his own to Refine them, and not to ruine them, whatever the World may think: <hi>Heb.</hi> 12. 3. to 12. <hi>Prov.</hi> 3. 11, 12. 2 <hi>Tim.</hi> 1. 8. 2 <hi>Tim.</hi> 2. 11. 12. <hi>Mat.</hi> 10<g ref="char:punc">▪</g> 18, to 40. <hi>Mat.</hi> 16. 24. to 28.</p>
+               <p>We are to imitate our Saviour in his Sufferings, as 1 <hi>Pet.</hi> 2 23. and 1 <hi>Pet.</hi> 4. 16, to 20.</p>
+               <p>We are neither to deſpiſe our Afflictions, nor faint under them; both are extreams.</p>
+               <p>We are not to ſuffer our Spirits to be exaſperated againſt the Inſtruments of our trouble; for the ſame Affliction may be an effect of their Paſſion, and yet ſent by God to puniſh us for Sin: Thô it is a Comfort when we may ſay to them, with <hi>David,</hi> Pſal. 59. 3. <hi>Not for my Tranſgreſſion, nor for my ſin, O Lord.</hi>
+               </p>
+               <p>Nor are we, by fraudulent Puſillanimous Compliances in wic<g ref="char:EOLhyphen"/>ked Courſes, to bring Sin upon our ſelves: Faint Hearts are or<g ref="char:EOLhyphen"/>dinarily Falſe Hearts; chooſing Sin rather than Sufferings, and a ſhort Life with Eternal Death, before Temporal Death and a Crown of Glory: Such ſeeking to Save a Little, Loſes All; and God readily hardens them to proceed to their own Deſtruction. How many, like <hi>Hazael,</hi> 2 King. 8. 13. run to Exceſſes they ne<g ref="char:EOLhyphen"/>ver thought they were capable of! Let Rulers and others read ſeriouſly, and weigh, <hi>Prov.</hi> 1. 10, to 20. 2 <hi>Chron.</hi> 28. 6, to 17. <hi>Prov.</hi> 24. 11, 12. and <hi>Prov.</hi> 28. 10. and avoid what is bad, and follow what is good.</p>
+               <p>For me, I hope by God s ſtrength to joyn with <hi>Job,</hi> Chap. 13. 15. and the <hi>Pſalmiſt,</hi> Pſal. 22. 4. and 167. and ſhall Pray, as <hi>Pſal.</hi> 74. 19, to 24. and <hi>Pſal.</hi> 122. 6, to 9. and <hi>Luk.</hi> 1. 74, 75. and ſhall Hope, as <hi>Pſal.</hi> 94. 14, 15.</p>
+               <p>I do freely forgive all that directly or indirectly have been the cauſe of my being brought to this place, firſt or laſt; and I pray
+<pb n="27" facs="tcp:43818:14"/>
+God Forgive them. I pray God ſend Truth and Peace in theſe <hi>Three</hi> Kingdoms; and continue and increaſe the glorious Light of the Goſpel, and reſtrain the Spirit of Prophanity, Atheiſm, Superſtition, Popery, and Perſecution; and Reſtore All that have back-ſlidden from the Purity of their Life, or Principles; and Bleſs his whole People with all bleſſings, Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, and put an end to their preſent Trials.</p>
+               <p>And I intreat all People to Forgive me wherein I have Offend<g ref="char:EOLhyphen"/>ed, and to concurr with me to Pray, That the great, good, and merciful God, would ſanctifie my preſent Lot, and for Jeſus Chriſt his ſake Pardon all my Sins, and receive me to his Ever<g ref="char:EOLhyphen"/>laſting Glory.</p>
+               <p>It is ſuggeſted to me, that I have ſaid nothing of the Royal Family; and it remembers me, that before the Juſtices at my Trial about the <hi>Teſt,</hi> I ſaid, that at my Death I would Pray, That there ſhould never want one of the Royal Family to be a <hi>Defender</hi> of the True, Ancient, Apoſtolick, Catholick, Prote<g ref="char:EOLhyphen"/>ſtant <hi>Faith;</hi> which I do now: And that <hi>GOD</hi> would enlighten and forgive all of them that are either luke-warm, or have ſhrunk from the Profeſſion of it. And in all Events, I pray God may provide for the Security of his Church, that <hi>Antichriſt,</hi> nor the Gates of Hell may never prevail againſt it.</p>
+            </div>
+            <div type="petition">
+               <pb n="28" facs="tcp:43818:15" rendition="simple:additions"/>
+               <head>The HUMBLE PETITION OF THE WIDDOWS AND FATHERLESS CHIDREN IN THE Weſt of England, (TO BE) Preſented to this preſent Convention.</head>
+               <p>WE, to the Number of a Thouſand and more, Widdows and Fatherleſs Children, of the Counties of <hi>Dorſet, Somerſet,</hi> and <hi>Devon,</hi> our dear Husbands and tender Fathers having been ſo Tyran<g ref="char:EOLhyphen"/>nouſly Butcher'd, and ſome Tranſported, our Eſtates ſold from us, and our Inheritance cut off by the
+<pb n="29" facs="tcp:43818:15"/>
+ſevere and harſh Sentence of <hi>George</hi> Lord <hi>Jefferies,</hi> now we underſtand in the Tower of <hi>London</hi> a Pri<g ref="char:EOLhyphen"/>ſoner, who has lately, we hear, endeavoured to ex<g ref="char:EOLhyphen"/>cuſe himſelf from thoſe Tyrannical and Illegal Sen<g ref="char:EOLhyphen"/>tences, by laying it on Information by ſome Gen<g ref="char:EOLhyphen"/>tlemen, who are known to us to be good Chri<g ref="char:EOLhyphen"/>ſtians, true Proteſtants and Engliſh-men. We your poor Petititioners, many hundreds of us, on our Knees have begg'd Mercy for our dear Husbands and tender Parents, from his Cruel Hands, but his thirſt for Blood was ſo great, and his Barbariſm ſo Cruel, that inſtead of granting Mercy for ſome, which were made appear to be Innocent, and Pe<g ref="char:EOLhyphen"/>titioned for by the flower of the Gentry of the ſaid Counties, he immediately Executed; and ſo barbarouſly, that a very good Gentlevvoman at <hi>Dorcheſter,</hi> begging on her Knees the Life of a worthy Gentleman, to Marry him, and make him her Husband, this vile Wretch not having com<g ref="char:EOLhyphen"/>mon Civility with him, and laying aſide that Ho<g ref="char:EOLhyphen"/>nour and Reſpect due to a Perſon of her worth, told her, <hi>Come,</hi> I <hi>know your meaning, ſome part of your Petition</hi> I <hi>will grant, which ſhall be that after he is Hanged and Quartered, you ſhall have that Member you beſt like when living, and ſo</hi> I <hi>will give Orders to the Sheriff:</hi> Theſe, with many hundred more Ty<g ref="char:EOLhyphen"/>rannical
+<pb n="30" facs="tcp:43818:16" rendition="simple:additions"/>
+Acts are ready to be made appear in the ſaid Counties, by honeſt and credible Perſons, and therefore your Petitioners deſire, that the ſaid <hi>George Jefferies,</hi> late Lord Chancellour, the Vileſt of Men, may be brought down to the Counties aforeſaid, where we the good Women in the <hi>Weſt</hi> ſhall be glad to ſee him; and give him another manner of Welcome than he had there three Years ſince.</p>
+               <closer>
+                  <signed>And your Petitioners ſhall ever Pray, &amp;c.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:43818:16" rendition="simple:additions"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THere will now ſpeedily be Publiſht a Treatiſe Entituled, <hi>The Bloody Aſſizes:</hi> or, A Compleat Hiſtory of the Life of <hi>GEORGE</hi> Lord <hi>JEFFERIES,</hi> from his Birth to this pre<g ref="char:EOLhyphen"/>ſent time, &amp;c. Wherein (amongſt other things) is given a true Account of his unheard of Cruelties and barbarous Proceedings <hi>in his whole Weſtern Circuit;</hi> the manner of his coming to <hi>Dorcheſt<g ref="char:EOLhyphen"/>er,</hi> his Tyrannical Behaviour there, his Affronts to the Sheriffs and chief Gentlemen of <hi>Devon-ſhire, Dorſet-ſhire, Somerſet-ſhire,</hi> &amp;c. His barbarous Practices at <hi>Exeter, Taunton,</hi> and the City of <hi>Wells;</hi> the Tryals and Condemnation of 947 Perſons, with their undaunt<g ref="char:EOLhyphen"/>ed Courage at the Barr, and remarkable Circumſtances that at<g ref="char:EOLhyphen"/>tended their Executions: Faithfully Collected by ſeveral <hi>Weſt Countrey Gentlemen,</hi> now in <hi>London,</hi> who were both Eye and Ear<g ref="char:EOLhyphen"/>witneſſes. Which will be Sold by <hi>John Dunton</hi> at the <hi>Black Raven</hi> in the <hi>Poultrey,</hi> over againſt the <hi>Compter.</hi>
+            </p>
+            <p>☞ The Firſt and Second Collection of <hi>Dying Speeches, Letters, Pray<g ref="char:EOLhyphen"/>ers,</hi> &amp;c. of thoſe who ſuffer'd in the <hi>Weſt,</hi> ſold by <hi>J. Dunton,</hi> at the <hi>Black Raven</hi> in the <hi>Poultrey.</hi>
+            </p>
+            <p>☞ <hi>The Joy of Faith,</hi> er a Treatiſe opening the true Nature of Faith, by <hi>S. Lee,</hi> ſold by <hi>J. Dunton.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
